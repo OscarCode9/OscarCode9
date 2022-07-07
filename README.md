@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Martinez Martinez</h1>
-<h3 align="center">A passionate software developer from Mexico, I have a lot experience working on frontend and backend I don’t like to call it fullstack, only software engineer</h3>
+<h3 align="center">A passionate software developer from Mexico, Working on the frontend, backend, and data but I don’t like to call myself full-stack. only software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarcode9&label=Profile%20views&color=0e75b6&style=flat" alt="oscarcode9" /> </p>
 
