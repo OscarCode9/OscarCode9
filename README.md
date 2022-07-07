@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning [Cypress](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/)
 
-- 👯 I’m looking to collaborate on [Densitylab](https://densitylabs.io/)
-
 - 👨‍💻 All of my projects are available at [http://www.oscarmtz.com/](http://www.oscarmtz.com/)
 
 - 📝 I regularly write articles on [http://www.oscarmtz.com/](http://www.oscarmtz.com/)
