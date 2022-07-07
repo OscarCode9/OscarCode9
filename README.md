@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Remine](https://www.remine.com/)
 
-- 🌱 I’m currently learning **https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/**
+- 🌱 I’m currently learning [Cypress](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/)
 
 - 👯 I’m looking to collaborate on [Densitylab](https://densitylabs.io/)
 
