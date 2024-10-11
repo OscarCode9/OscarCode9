@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Reactjs, Nodejs, Typescript, Redux, MongoDB, Postgres**
 
-- 📫 How to reach me **oscar.martinez.martinez.97@gmail.com**
+- 📫 How to reach me **oscar.martinez.mtz.97@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NN5C8NicFfostNTJWmFcUVWPqLa6rNy-CskWVUXA9zI/edit?usp=sharing](https://docs.google.com/document/d/1NN5C8NicFfostNTJWmFcUVWPqLa6rNy-CskWVUXA9zI/edit?usp=sharing)
 
