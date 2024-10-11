@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Remine](https://www.remine.com/)
 
-- 🌱 I’m currently learning [Cypress](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/)
+- 🌱 I’m currently learning [langchain](https://python.langchain.com/docs/tutorials/rag/)
 
 - 👨‍💻 All of my projects are available at [http://www.oscarmtz.com/](http://www.oscarmtz.com/)
 
-- 📝 I regularly write articles on [http://www.oscarmtz.com/](http://www.oscarmtz.com/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/oscarmtzmtz/](https://www.linkedin.com/in/oscarmtzmtz/)
 
 - 💬 Ask me about **Reactjs, Nodejs, Typescript, Redux, MongoDB, Postgres**
 
