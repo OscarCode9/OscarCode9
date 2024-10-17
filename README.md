@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oscar.martinez.mtz.97@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NN5C8NicFfostNTJWmFcUVWPqLa6rNy-CskWVUXA9zI/edit?usp=sharing](https://docs.google.com/document/d/1NN5C8NicFfostNTJWmFcUVWPqLa6rNy-CskWVUXA9zI/edit?usp=sharing)
+- 📄 Know about my experiences [My CV](https://www.canva.com/design/DAGPbG1z-cM/671LdaldckMfbzZQlq1wcA/edit?utm_content=DAGPbG1z-cM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Skateboardind, paly guitar and make videos**
 
