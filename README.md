@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/oscarmtzmtz/](https://www.linkedin.com/in/oscarmtzmtz/)
 
-- 💬 Ask me about **Reactjs, Nodejs, Typescript, Redux, MongoDB, Postgres**
+- 💬 Ask me about **Java, Spring boot, Docker, Reactjs, Nodejs, Typescript, Redux, MongoDB, Postgres**
 
 - 📫 How to reach me **oscar.martinez.mtz.97@gmail.com**
 
