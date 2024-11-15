@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarcode9&label=Profile%20views&color=0e75b6&style=flat" alt="oscarcode9" /> </p>
 
-- 🔭 I’m currently working on [Remine](https://www.remine.com/)
+- 🔭 I’m currently working on [MUBAI]([https://www.remine.com/](https://www.linkedin.com/company/mubaimx/posts/?feedView=all))
 
 - 🌱 I’m currently learning [langchain](https://python.langchain.com/docs/tutorials/rag/)
 
-- 👨‍💻 All of my projects are available at [http://www.oscarmtz.com/](http://www.oscarmtz.com/)
+- 👨‍💻 All of my projects are available at [linkedin]([http://www.oscarmtz.com/](https://www.linkedin.com/in/oscarmtzmtz/))
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/oscarmtzmtz/](https://www.linkedin.com/in/oscarmtzmtz/)
 
