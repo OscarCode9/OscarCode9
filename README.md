@@ -18,18 +18,27 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🚀 Current Projects
 
-<p align="center">
-<a href="https://www.linkedin.com/in/oscarmtzmtz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://oscarcode9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.instagram.com/oscarmtz.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:oscar.martinez.mtz.97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**TenK — 10K Hours Tracker**](https://tenk.oventlabs.com/) | App to track 10,000 hours of deliberate practice towards mastery. Inspired by Malcolm Gladwell's theory and GitHub's contribution graph. Available on Android & Web. | Flutter, Bun, Hono, PostgreSQL, Prisma, Docker, Nginx, AWS |
+| [**LogisticRed**](https://logisticred.com/) | Logistics platform for freight and transportation management. | Java, Spring Boot, React, PostgreSQL, AWS |
+| [**Clínica Corporativo Truck Driver**](https://clinica.corporativotruckdriver.com/login) | Clinical management system for truck driver medical evaluations and certifications. | Java, Spring Boot, React, PostgreSQL |
 
 ---
 
-### 🛠️ Tech Stack:
+### 💼 Previous Work Experience — Projects
+
+| Project | Description | Role |
+|---------|-------------|------|
+| [**Soulgate**](https://www.soulgate.com/) | Digital platform for memorial and legacy services. | Software Engineer |
+| [**PartsBase**](https://www.partsbase.com/) | World's largest aviation parts marketplace — connecting buyers and sellers across the aerospace industry. | Software Engineer |
+| [**Remine**](https://remine.com/) | Real estate platform providing data analytics and tools for agents, brokers, and MLSs. | Software Engineer |
+
+---
+
+### 🛠️ Tech Stack
 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,6 +54,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### AI & LLMs
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents_(Testing)-FF6F00?style=for-the-badge&logo=robot-framework&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-764ABC?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini ADK](https://img.shields.io/badge/Gemini_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 #### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -54,9 +75,21 @@
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/oscarmtzmtz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://oscarcode9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/oscarmtz.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:oscar.martinez.mtz.97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
